@@ -1,0 +1,6 @@
+2018-08-30 20:00:33,508:Chrome_Analysis.py:WARNING:Main not found:Practice.pyspark_conf
+2018-08-30 20:16:03,646:Chrome_Analysis.py:INFO:connection successful
+2018-08-30 20:16:44,266:Chrome_Analysis.py:INFO:********** Encountered Invalid URLs **********
+2018-08-30 20:21:58,403:Chrome_Analysis.py:INFO:connection successful
+2018-08-30 20:22:25,565:Chrome_Analysis.py:INFO:********** Encountered Invalid URLs **********
+2018-08-30 20:22:25,565:Chrome_Analysis.py:INFO:data:text/html;base64,PHNjcmlwdD5pZih3aW5kb3cuaGlzdG9yeS5sZW5ndGg+MSl3aW5kb3cuaGlzdG9yeS5iYWNrKCk7ZWxzZSB3aW5kb3cuY2xvc2UoKTs8L3NjcmlwdD4=1
