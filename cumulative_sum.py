@@ -43,7 +43,7 @@ if __name__=='__main__':
          rank_df=df2.withColumn("rank",dense_rank().over(Window.partitionBy("days").orderBy(desc("cum"))))
          print(rank_df.show())
          # df3 = spark.read.json('C:/Users/Arun prasad/PycharmProjects/Sample/venv/Practice/df2.json/part-00000-88287c46-6d19-488b-9b86-a31189622b14-c000.json')
-         # print(df3.show())
+         # print(df3.show()
 
     except:
         print(sys.exc_info())
